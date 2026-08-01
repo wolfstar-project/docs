@@ -153,7 +153,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 											"line": 37,
 											"character": 4,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L37"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L37"
 										}
 									],
 									"type": {
@@ -177,7 +177,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 									"line": 32,
 									"character": 19,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L32"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L32"
 								}
 							],
 							"extendedTypes": [
@@ -204,7 +204,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 									"line": 30,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L30"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L30"
 								}
 							],
 							"type": {
@@ -244,13 +244,13 @@
 							"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 							"line": 11,
 							"character": 22,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L11"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L11"
 						},
 						{
 							"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 							"line": 29,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L29"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L29"
 						}
 					]
 				},
@@ -360,7 +360,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 											"line": 76,
 											"character": 4,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L76"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L76"
 										}
 									],
 									"type": {
@@ -480,7 +480,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 											"line": 70,
 											"character": 4,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L70"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L70"
 										}
 									],
 									"type": {
@@ -514,7 +514,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 									"line": 65,
 									"character": 19,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L65"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L65"
 								}
 							],
 							"extendedTypes": [
@@ -541,7 +541,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 									"line": 63,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L63"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L63"
 								}
 							],
 							"type": {
@@ -581,13 +581,13 @@
 							"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 							"line": 16,
 							"character": 22,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L16"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L16"
 						},
 						{
 							"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 							"line": 62,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L62"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L62"
 						}
 					]
 				},
@@ -609,7 +609,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 15,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L15"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L15"
 								}
 							],
 							"type": {
@@ -628,7 +628,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 21,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L21"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L21"
 								}
 							],
 							"type": {
@@ -647,7 +647,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 16,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L16"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L16"
 								}
 							],
 							"type": {
@@ -666,7 +666,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 20,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L20"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L20"
 								}
 							],
 							"type": {
@@ -685,7 +685,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 18,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L18"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L18"
 								}
 							],
 							"type": {
@@ -704,7 +704,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 17,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L17"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L17"
 								}
 							],
 							"type": {
@@ -723,7 +723,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 19,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L19"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L19"
 								}
 							],
 							"type": {
@@ -751,7 +751,7 @@
 							"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 							"line": 14,
 							"character": 12,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L14"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L14"
 						}
 					]
 				},
@@ -1827,7 +1827,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiRequest.ts",
 									"line": 14,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiRequest.ts#L14"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiRequest.ts#L14"
 								}
 							],
 							"type": {
@@ -1873,7 +1873,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiRequest.ts",
 									"line": 9,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiRequest.ts#L9"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiRequest.ts#L9"
 								}
 							],
 							"type": {
@@ -2610,7 +2610,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiRequest.ts",
 									"line": 24,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiRequest.ts#L24"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiRequest.ts#L24"
 								}
 							],
 							"type": {
@@ -2660,7 +2660,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiRequest.ts",
 									"line": 19,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiRequest.ts#L19"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiRequest.ts#L19"
 								}
 							],
 							"type": {
@@ -13085,7 +13085,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiRequest.ts",
 									"line": 47,
 									"character": 15,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiRequest.ts#L47"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiRequest.ts#L47"
 								}
 							],
 							"signatures": [
@@ -13108,7 +13108,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiRequest.ts",
 											"line": 47,
 											"character": 15,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiRequest.ts#L47"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiRequest.ts#L47"
 										}
 									],
 									"typeParameters": [
@@ -13182,7 +13182,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiRequest.ts",
 									"line": 30,
 									"character": 15,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiRequest.ts#L30"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiRequest.ts#L30"
 								}
 							],
 							"signatures": [
@@ -13205,7 +13205,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiRequest.ts",
 											"line": 30,
 											"character": 15,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiRequest.ts#L30"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiRequest.ts#L30"
 										}
 									],
 									"parameters": [
@@ -19330,7 +19330,7 @@
 							"fileName": "packages/plugin-api/src/lib/http/ApiRequest.ts",
 							"line": 5,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiRequest.ts#L5"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiRequest.ts#L5"
 						}
 					],
 					"extendedTypes": [
@@ -23172,7 +23172,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 									"line": 41,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L41"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L41"
 								}
 							],
 							"signatures": [
@@ -23187,7 +23187,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 											"line": 41,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L41"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L41"
 										}
 									],
 									"parameters": [
@@ -24976,7 +24976,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 									"line": 45,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L45"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L45"
 								}
 							],
 							"signatures": [
@@ -24991,7 +24991,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 											"line": 45,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L45"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L45"
 										}
 									],
 									"parameters": [
@@ -25743,7 +25743,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 									"line": 11,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L11"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L11"
 								}
 							],
 							"signatures": [
@@ -25758,7 +25758,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 											"line": 11,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L11"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L11"
 										}
 									],
 									"parameters": [
@@ -26091,7 +26091,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 									"line": 37,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L37"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L37"
 								}
 							],
 							"signatures": [
@@ -26106,7 +26106,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 											"line": 37,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L37"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L37"
 										}
 									],
 									"parameters": [
@@ -26143,7 +26143,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 									"line": 27,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L27"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L27"
 								}
 							],
 							"signatures": [
@@ -26158,7 +26158,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 											"line": 27,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L27"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L27"
 										}
 									],
 									"type": {
@@ -26181,7 +26181,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 									"line": 33,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L33"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L33"
 								}
 							],
 							"signatures": [
@@ -26196,7 +26196,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 											"line": 33,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L33"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L33"
 										}
 									],
 									"parameters": [
@@ -31607,7 +31607,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 									"line": 6,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L6"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L6"
 								}
 							],
 							"signatures": [
@@ -31622,7 +31622,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 											"line": 6,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L6"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L6"
 										}
 									],
 									"parameters": [
@@ -31658,7 +31658,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 									"line": 19,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L19"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L19"
 								}
 							],
 							"signatures": [
@@ -31673,7 +31673,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 											"line": 19,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L19"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L19"
 										}
 									],
 									"parameters": [
@@ -36052,7 +36052,7 @@
 							"fileName": "packages/plugin-api/src/lib/http/ApiResponse.ts",
 							"line": 5,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiResponse.ts#L5"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiResponse.ts#L5"
 						}
 					],
 					"extendedTypes": [
@@ -36114,7 +36114,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 82,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L82"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L82"
 								}
 							],
 							"signatures": [
@@ -36129,7 +36129,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 											"line": 82,
 											"character": 2,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L82"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L82"
 										}
 									],
 									"parameters": [
@@ -36222,7 +36222,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 78,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L78"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L78"
 								}
 							],
 							"type": {
@@ -36246,7 +36246,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 80,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L80"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L80"
 								}
 							],
 							"type": {
@@ -36270,7 +36270,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 77,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L77"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L77"
 								}
 							],
 							"type": {
@@ -36294,7 +36294,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 79,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L79"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L79"
 								}
 							],
 							"type": {
@@ -36660,7 +36660,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 108,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L108"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L108"
 								}
 							],
 							"signatures": [
@@ -36683,7 +36683,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 											"line": 108,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L108"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L108"
 										}
 									],
 									"type": {
@@ -36718,7 +36718,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 128,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L128"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L128"
 								}
 							],
 							"signatures": [
@@ -36741,7 +36741,7 @@
 											"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 											"line": 128,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L128"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L128"
 										}
 									],
 									"type": {
@@ -41197,7 +41197,7 @@
 							"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 							"line": 76,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L76"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L76"
 						}
 					],
 					"extendedTypes": [
@@ -41277,7 +41277,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 									"line": 21,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L21"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L21"
 								}
 							],
 							"signatures": [
@@ -41292,7 +41292,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 											"line": 21,
 											"character": 2,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L21"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L21"
 										}
 									],
 									"typeParameters": [
@@ -41588,7 +41588,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 									"line": 19,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L19"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L19"
 								}
 							],
 							"type": {
@@ -41929,7 +41929,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 									"line": 26,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L26"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L26"
 								}
 							],
 							"signatures": [
@@ -41944,7 +41944,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 											"line": 26,
 											"character": 18,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L26"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L26"
 										}
 									],
 									"parameters": [
@@ -42170,13 +42170,13 @@
 							"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 							"line": 11,
 							"character": 22,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L11"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L11"
 						},
 						{
 							"fileName": "packages/plugin-api/src/lib/structures/Middleware.ts",
 							"line": 29,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Middleware.ts#L29"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Middleware.ts#L29"
 						}
 					],
 					"typeParameters": [
@@ -42247,7 +42247,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 									"line": 12,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L12"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L12"
 								}
 							],
 							"signatures": [
@@ -42262,7 +42262,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 											"line": 12,
 											"character": 2,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L12"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L12"
 										}
 									],
 									"type": {
@@ -42546,7 +42546,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 									"line": 10,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L10"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L10"
 								}
 							],
 							"type": {
@@ -43080,7 +43080,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 									"line": 43,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L43"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L43"
 								}
 							],
 							"signatures": [
@@ -43095,7 +43095,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 											"line": 43,
 											"character": 18,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L43"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L43"
 										}
 									],
 									"type": {
@@ -43554,7 +43554,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 									"line": 36,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L36"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L36"
 								}
 							],
 							"signatures": [
@@ -43583,7 +43583,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 											"line": 36,
 											"character": 18,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L36"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L36"
 										}
 									],
 									"parameters": [
@@ -57763,7 +57763,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 									"line": 19,
 									"character": 15,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L19"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L19"
 								}
 							],
 							"signatures": [
@@ -57786,7 +57786,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 											"line": 19,
 											"character": 15,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L19"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L19"
 										}
 									],
 									"parameters": [
@@ -57849,7 +57849,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 									"line": 26,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L26"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L26"
 								}
 							],
 							"signatures": [
@@ -57872,7 +57872,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 											"line": 26,
 											"character": 18,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L26"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L26"
 										}
 									],
 									"parameters": [
@@ -60406,7 +60406,7 @@
 							"fileName": "packages/plugin-api/src/lib/structures/MiddlewareStore.ts",
 							"line": 6,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L6"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/MiddlewareStore.ts#L6"
 						}
 					],
 					"extendedTypes": [
@@ -60524,7 +60524,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 									"line": 30,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L30"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L30"
 								}
 							],
 							"signatures": [
@@ -60539,7 +60539,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 											"line": 30,
 											"character": 2,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L30"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L30"
 										}
 									],
 									"typeParameters": [
@@ -60726,7 +60726,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 									"line": 28,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L28"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L28"
 								}
 							],
 							"type": {
@@ -60891,7 +60891,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 									"line": 23,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L23"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L23"
 								}
 							],
 							"type": {
@@ -61239,7 +61239,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 									"line": 59,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L59"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L59"
 								}
 							],
 							"signatures": [
@@ -61270,7 +61270,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 											"line": 59,
 											"character": 18,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L59"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L59"
 										}
 									],
 									"parameters": [
@@ -61497,13 +61497,13 @@
 							"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 							"line": 16,
 							"character": 22,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L16"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L16"
 						},
 						{
 							"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 							"line": 62,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L62"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L62"
 						}
 					],
 					"typeParameters": [
@@ -61600,7 +61600,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 18,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L18"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L18"
 								}
 							],
 							"signatures": [
@@ -61615,7 +61615,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 											"line": 18,
 											"character": 2,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L18"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L18"
 										}
 									],
 									"parameters": [
@@ -61687,7 +61687,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 11,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L11"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L11"
 								}
 							],
 							"type": {
@@ -61709,7 +61709,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 10,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L10"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L10"
 								}
 							],
 							"type": {
@@ -61731,7 +61731,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 13,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L13"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L13"
 								}
 							],
 							"type": {
@@ -61755,7 +61755,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 12,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L12"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L12"
 								}
 							],
 							"type": {
@@ -61787,7 +61787,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 68,
 									"character": 12,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L68"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L68"
 								}
 							],
 							"signatures": [
@@ -61802,7 +61802,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 											"line": 68,
 											"character": 12,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L68"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L68"
 										}
 									],
 									"parameters": [
@@ -61867,7 +61867,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 29,
 									"character": 12,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L29"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L29"
 								}
 							],
 							"signatures": [
@@ -61882,7 +61882,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 											"line": 29,
 											"character": 12,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L29"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L29"
 										}
 									],
 									"parameters": [
@@ -61951,7 +61951,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 25,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L25"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L25"
 								}
 							],
 							"signatures": [
@@ -61966,7 +61966,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 											"line": 25,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L25"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L25"
 										}
 									],
 									"parameters": [
@@ -62002,7 +62002,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 54,
 									"character": 12,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L54"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L54"
 								}
 							],
 							"signatures": [
@@ -62017,7 +62017,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 											"line": 54,
 											"character": 12,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L54"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L54"
 										}
 									],
 									"parameters": [
@@ -62103,7 +62103,7 @@
 							"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 							"line": 9,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L9"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L9"
 						}
 					],
 					"extendedBy": [
@@ -62142,7 +62142,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterNode.ts",
 									"line": 11,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L11"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L11"
 								}
 							],
 							"signatures": [
@@ -62157,7 +62157,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterNode.ts",
 											"line": 11,
 											"character": 2,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L11"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L11"
 										}
 									],
 									"parameters": [
@@ -62238,7 +62238,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterNode.ts",
 									"line": 9,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L9"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L9"
 								}
 							],
 							"type": {
@@ -62741,7 +62741,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterNode.ts",
 									"line": 20,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L20"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L20"
 								}
 							],
 							"signatures": [
@@ -62772,7 +62772,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterNode.ts",
 											"line": 20,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L20"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L20"
 										}
 									],
 									"parameters": [
@@ -63653,7 +63653,7 @@
 							"fileName": "packages/plugin-api/src/lib/structures/router/RouterNode.ts",
 							"line": 8,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L8"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterNode.ts#L8"
 						}
 					],
 					"extendedTypes": [
@@ -63731,7 +63731,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 									"line": 13,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L13"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L13"
 								}
 							],
 							"signatures": [
@@ -63746,7 +63746,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 											"line": 13,
 											"character": 2,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L13"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L13"
 										}
 									],
 									"type": {
@@ -63783,7 +63783,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 11,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L11"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L11"
 								}
 							],
 							"type": {
@@ -63811,7 +63811,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 10,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L10"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L10"
 								}
 							],
 							"type": {
@@ -63839,7 +63839,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 13,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L13"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L13"
 								}
 							],
 							"type": {
@@ -63869,7 +63869,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 12,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L12"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L12"
 								}
 							],
 							"type": {
@@ -63906,7 +63906,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 									"line": 17,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L17"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L17"
 								}
 							],
 							"signatures": [
@@ -63921,7 +63921,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 											"line": 17,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L17"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L17"
 										}
 									],
 									"parameters": [
@@ -63961,7 +63961,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 									"line": 25,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L25"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L25"
 								}
 							],
 							"signatures": [
@@ -63976,7 +63976,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 											"line": 25,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L25"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L25"
 										}
 									],
 									"parameters": [
@@ -64031,7 +64031,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 68,
 									"character": 12,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L68"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L68"
 								}
 							],
 							"signatures": [
@@ -64048,7 +64048,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 											"line": 68,
 											"character": 12,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L68"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L68"
 										}
 									],
 									"parameters": [
@@ -64124,7 +64124,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 29,
 									"character": 12,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L29"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L29"
 								}
 							],
 							"signatures": [
@@ -64141,7 +64141,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 											"line": 29,
 											"character": 12,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L29"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L29"
 										}
 									],
 									"parameters": [
@@ -64221,7 +64221,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 25,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L25"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L25"
 								}
 							],
 							"signatures": [
@@ -64238,7 +64238,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 											"line": 25,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L25"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L25"
 										}
 									],
 									"parameters": [
@@ -64284,7 +64284,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 									"line": 21,
 									"character": 9,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L21"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L21"
 								}
 							],
 							"signatures": [
@@ -64299,7 +64299,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 											"line": 21,
 											"character": 9,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L21"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L21"
 										}
 									],
 									"parameters": [
@@ -64338,7 +64338,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 									"line": 54,
 									"character": 12,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L54"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L54"
 								}
 							],
 							"signatures": [
@@ -64355,7 +64355,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterBranch.ts",
 											"line": 54,
 											"character": 12,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L54"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterBranch.ts#L54"
 										}
 									],
 									"parameters": [
@@ -64433,7 +64433,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 									"line": 60,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L60"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L60"
 								}
 							],
 							"signatures": [
@@ -64480,7 +64480,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 											"line": 60,
 											"character": 16,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L60"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L60"
 										}
 									],
 									"parameters": [
@@ -64550,7 +64550,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 									"line": 41,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L41"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L41"
 								}
 							],
 							"signatures": [
@@ -64589,7 +64589,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 											"line": 41,
 											"character": 16,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L41"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L41"
 										}
 									],
 									"parameters": [
@@ -64644,7 +64644,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 									"line": 32,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L32"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L32"
 								}
 							],
 							"signatures": [
@@ -64675,7 +64675,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 											"line": 32,
 											"character": 16,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L32"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L32"
 										}
 									],
 									"parameters": [
@@ -64750,7 +64750,7 @@
 							"fileName": "packages/plugin-api/src/lib/structures/router/RouterRoot.ts",
 							"line": 12,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L12"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/router/RouterRoot.ts#L12"
 						}
 					],
 					"extendedTypes": [
@@ -64782,7 +64782,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/RouteStore.ts",
 									"line": 12,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/RouteStore.ts#L12"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/RouteStore.ts#L12"
 								}
 							],
 							"signatures": [
@@ -64797,7 +64797,7 @@
 											"fileName": "packages/plugin-api/src/lib/structures/RouteStore.ts",
 											"line": 12,
 											"character": 2,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/RouteStore.ts#L12"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/RouteStore.ts#L12"
 										}
 									],
 									"type": {
@@ -65038,7 +65038,7 @@
 									"fileName": "packages/plugin-api/src/lib/structures/RouteStore.ts",
 									"line": 10,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/RouteStore.ts#L10"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/RouteStore.ts#L10"
 								}
 							],
 							"type": {
@@ -82850,7 +82850,7 @@
 							"fileName": "packages/plugin-api/src/lib/structures/RouteStore.ts",
 							"line": 6,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/RouteStore.ts#L6"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/RouteStore.ts#L6"
 						}
 					],
 					"extendedTypes": [
@@ -82896,7 +82896,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 25,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L25"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L25"
 								}
 							],
 							"type": {
@@ -82931,7 +82931,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 31,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L31"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L31"
 								}
 							],
 							"type": {
@@ -82982,7 +82982,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 26,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L26"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L26"
 								}
 							],
 							"type": {
@@ -83024,7 +83024,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 30,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L30"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L30"
 								}
 							],
 							"type": {
@@ -83075,7 +83075,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 28,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L28"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L28"
 								}
 							],
 							"type": {
@@ -83117,7 +83117,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 27,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L27"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L27"
 								}
 							],
 							"type": {
@@ -83159,7 +83159,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 29,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L29"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L29"
 								}
 							],
 							"type": {
@@ -83210,7 +83210,7 @@
 							"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 							"line": 24,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L24"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L24"
 						}
 					]
 				},
@@ -83261,7 +83261,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 68,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L68"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L68"
 								}
 							],
 							"type": {
@@ -83309,7 +83309,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 61,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L61"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L61"
 								}
 							],
 							"type": {
@@ -83364,7 +83364,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 50,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L50"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L50"
 								}
 							],
 							"type": {
@@ -83420,7 +83420,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 44,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L44"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L44"
 								}
 							],
 							"type": {
@@ -83457,7 +83457,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 38,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L38"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L38"
 								}
 							],
 							"type": {
@@ -83502,7 +83502,7 @@
 									"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 									"line": 55,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L55"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L55"
 								}
 							],
 							"type": {
@@ -83568,7 +83568,7 @@
 							"fileName": "packages/plugin-api/src/lib/http/ApiServer.ts",
 							"line": 34,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/ApiServer.ts#L34"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/ApiServer.ts#L34"
 						}
 					]
 				},
@@ -83583,7 +83583,7 @@
 							"fileName": "packages/plugin-api/src/lib/structures/Route.ts",
 							"line": 7,
 							"character": 12,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/structures/Route.ts#L7"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/structures/Route.ts#L7"
 						}
 					],
 					"typeParameters": [
@@ -83638,7 +83638,7 @@
 							"fileName": "packages/plugin-api/src/lib/http/HttpMethod.ts",
 							"line": 6,
 							"character": 12,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/HttpMethod.ts#L6"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/HttpMethod.ts#L6"
 						}
 					],
 					"type": {
@@ -83689,7 +83689,7 @@
 							"fileName": "packages/plugin-api/src/lib/http/HttpMethod.ts",
 							"line": 4,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/lib/http/HttpMethod.ts#L4"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/lib/http/HttpMethod.ts#L4"
 						}
 					],
 					"type": {
@@ -83742,7 +83742,7 @@
 							"fileName": "packages/plugin-api/src/listeners/_load.ts",
 							"line": 13,
 							"character": 22,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/listeners/_load.ts#L13"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/listeners/_load.ts#L13"
 						}
 					],
 					"signatures": [
@@ -83783,7 +83783,7 @@
 									"fileName": "packages/plugin-api/src/listeners/_load.ts",
 									"line": 13,
 									"character": 22,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/listeners/_load.ts#L13"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/listeners/_load.ts#L13"
 								}
 							],
 							"type": {
@@ -83816,7 +83816,7 @@
 							"fileName": "packages/plugin-api/src/middlewares/_load.ts",
 							"line": 8,
 							"character": 22,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/middlewares/_load.ts#L8"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/middlewares/_load.ts#L8"
 						}
 					],
 					"signatures": [
@@ -83865,7 +83865,7 @@
 									"fileName": "packages/plugin-api/src/middlewares/_load.ts",
 									"line": 8,
 									"character": 22,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-api/src/middlewares/_load.ts#L8"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-api/src/middlewares/_load.ts#L8"
 								}
 							],
 							"type": {
@@ -83971,7 +83971,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 78,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L78"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L78"
 								}
 							],
 							"type": {
@@ -83997,7 +83997,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 77,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L77"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L77"
 								}
 							],
 							"type": {
@@ -84023,7 +84023,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 76,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L76"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L76"
 								}
 							],
 							"type": {
@@ -84073,7 +84073,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 74,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L74"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L74"
 								}
 							],
 							"type": {
@@ -84095,7 +84095,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 72,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L72"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L72"
 								}
 							],
 							"type": {
@@ -84121,7 +84121,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 75,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L75"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L75"
 								}
 							],
 							"type": {
@@ -84147,7 +84147,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 71,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L71"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L71"
 								}
 							],
 							"type": {
@@ -84172,7 +84172,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 79,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L79"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L79"
 								}
 							],
 							"type": {
@@ -84208,13 +84208,13 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 							"line": 37,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L37"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L37"
 						},
 						{
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 							"line": 70,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L70"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L70"
 						}
 					]
 				},
@@ -84236,7 +84236,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 118,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L118"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L118"
 								}
 							],
 							"type": {
@@ -84262,7 +84262,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 117,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L117"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L117"
 								}
 							],
 							"type": {
@@ -84288,7 +84288,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 116,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L116"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L116"
 								}
 							],
 							"type": {
@@ -84338,7 +84338,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 114,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L114"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L114"
 								}
 							],
 							"type": {
@@ -84360,7 +84360,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 112,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L112"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L112"
 								}
 							],
 							"type": {
@@ -84386,7 +84386,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 115,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L115"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L115"
 								}
 							],
 							"type": {
@@ -84412,7 +84412,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 111,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L111"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L111"
 								}
 							],
 							"type": {
@@ -84438,7 +84438,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 119,
 									"character": 14,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L119"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L119"
 								}
 							],
 							"type": {
@@ -84474,13 +84474,13 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 							"line": 101,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L101"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L101"
 						},
 						{
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 							"line": 110,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L110"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L110"
 						}
 					]
 				},
@@ -84533,7 +84533,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 40,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L40"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L40"
 								}
 							],
 							"signatures": [
@@ -84548,7 +84548,7 @@
 											"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 											"line": 40,
 											"character": 2,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L40"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L40"
 										}
 									],
 									"typeParameters": [
@@ -85868,13 +85868,13 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 							"line": 37,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L37"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L37"
 						},
 						{
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 							"line": 70,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L70"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L70"
 						}
 					],
 					"typeParameters": [
@@ -86154,7 +86154,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 									"line": 107,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L107"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L107"
 								}
 							],
 							"type": {
@@ -86177,7 +86177,7 @@
 													"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts",
 													"line": 34,
 													"character": 2,
-													"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L34"
+													"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L34"
 												}
 											],
 											"signatures": [
@@ -86214,7 +86214,7 @@
 															"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts",
 															"line": 34,
 															"character": 2,
-															"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L34"
+															"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L34"
 														}
 													],
 													"parameters": [
@@ -86273,7 +86273,7 @@
 													"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts",
 													"line": 15,
 													"character": 2,
-													"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L15"
+													"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L15"
 												}
 											],
 											"signatures": [
@@ -86310,7 +86310,7 @@
 															"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts",
 															"line": 15,
 															"character": 2,
-															"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L15"
+															"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L15"
 														}
 													],
 													"parameters": [
@@ -87548,13 +87548,13 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 							"line": 101,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L101"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L101"
 						},
 						{
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/structures/command.ts",
 							"line": 110,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L110"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/structures/command.ts#L110"
 						}
 					],
 					"typeParameters": [
@@ -88180,7 +88180,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/strategy.ts",
 									"line": 12,
 									"character": 18,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/strategy.ts#L12"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/strategy.ts#L12"
 								}
 							],
 							"signatures": [
@@ -88223,7 +88223,7 @@
 											"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/strategy.ts",
 											"line": 12,
 											"character": 18,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/strategy.ts#L12"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/strategy.ts#L12"
 										}
 									],
 									"parameters": [
@@ -89044,7 +89044,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/strategy.ts",
 							"line": 11,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/strategy.ts#L11"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/strategy.ts#L11"
 						}
 					],
 					"extendedTypes": [
@@ -89139,7 +89139,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 									"line": 76,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L76"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L76"
 								}
 							],
 							"type": {
@@ -89161,7 +89161,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 							"line": 69,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L69"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L69"
 						}
 					]
 				},
@@ -89199,7 +89199,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 									"line": 42,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L42"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L42"
 								}
 							],
 							"type": {
@@ -89226,7 +89226,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 									"line": 38,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L38"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L38"
 								}
 							],
 							"type": {
@@ -89253,7 +89253,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 									"line": 46,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L46"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L46"
 								}
 							],
 							"type": {
@@ -89279,7 +89279,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 							"line": 34,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L34"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L34"
 						}
 					]
 				},
@@ -89326,7 +89326,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 									"line": 24,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L24"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L24"
 								}
 							],
 							"type": {
@@ -89353,7 +89353,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 									"line": 28,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L28"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L28"
 								}
 							],
 							"type": {
@@ -89378,7 +89378,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 							"line": 20,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L20"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L20"
 						}
 					]
 				},
@@ -89430,7 +89430,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 									"line": 53,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L53"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L53"
 								}
 							],
 							"type": {
@@ -89453,7 +89453,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 									"line": 54,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L54"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L54"
 								}
 							],
 							"type": {
@@ -89478,7 +89478,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 							"line": 52,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L52"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L52"
 						}
 					]
 				},
@@ -89508,7 +89508,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 									"line": 62,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L62"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L62"
 								}
 							],
 							"type": {
@@ -89533,7 +89533,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 									"line": 63,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L63"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L63"
 								}
 							],
 							"type": {
@@ -89552,7 +89552,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 									"line": 61,
 									"character": 2,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L61"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L61"
 								}
 							],
 							"type": {
@@ -89582,7 +89582,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 							"line": 60,
 							"character": 17,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L60"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L60"
 						}
 					]
 				},
@@ -89605,7 +89605,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 							"line": 8,
 							"character": 12,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L8"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L8"
 						}
 					],
 					"type": {
@@ -89641,7 +89641,7 @@
 													"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 													"line": 10,
 													"character": 6,
-													"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L10"
+													"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L10"
 												}
 											],
 											"signatures": [
@@ -89656,7 +89656,7 @@
 															"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/types.ts",
 															"line": 10,
 															"character": 6,
-															"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L10"
+															"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/types.ts#L10"
 														}
 													],
 													"type": {
@@ -89865,7 +89865,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts",
 							"line": 11,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L11"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L11"
 						}
 					],
 					"type": {
@@ -89888,7 +89888,7 @@
 											"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts",
 											"line": 34,
 											"character": 2,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L34"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L34"
 										}
 									],
 									"signatures": [
@@ -89925,7 +89925,7 @@
 													"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts",
 													"line": 34,
 													"character": 2,
-													"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L34"
+													"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L34"
 												}
 											],
 											"parameters": [
@@ -89984,7 +89984,7 @@
 											"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts",
 											"line": 15,
 											"character": 2,
-											"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L15"
+											"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L15"
 										}
 									],
 									"signatures": [
@@ -90021,7 +90021,7 @@
 													"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts",
 													"line": 15,
 													"character": 2,
-													"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L15"
+													"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/hooks.ts#L15"
 												}
 											],
 											"parameters": [
@@ -90104,7 +90104,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 							"line": 17,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L17"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L17"
 						}
 					],
 					"type": {
@@ -90184,7 +90184,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 							"line": 9,
 							"character": 13,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L9"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L9"
 						}
 					],
 					"type": {
@@ -90238,7 +90238,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 							"line": 91,
 							"character": 16,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L91"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L91"
 						}
 					],
 					"signatures": [
@@ -90269,7 +90269,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 									"line": 91,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L91"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L91"
 								}
 							],
 							"parameters": [
@@ -90350,7 +90350,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 							"line": 68,
 							"character": 16,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L68"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L68"
 						}
 					],
 					"signatures": [
@@ -90381,7 +90381,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 									"line": 68,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L68"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L68"
 								}
 							],
 							"parameters": [
@@ -90451,7 +90451,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts",
 							"line": 166,
 							"character": 16,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L166"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L166"
 						}
 					],
 					"signatures": [
@@ -90474,7 +90474,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts",
 									"line": 166,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L166"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L166"
 								}
 							],
 							"type": {
@@ -90495,7 +90495,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts",
 							"line": 15,
 							"character": 16,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L15"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L15"
 						}
 					],
 					"signatures": [
@@ -90518,7 +90518,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts",
 									"line": 15,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L15"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L15"
 								}
 							],
 							"parameters": [
@@ -90552,7 +90552,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 							"line": 25,
 							"character": 16,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L25"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L25"
 						}
 					],
 					"signatures": [
@@ -90575,7 +90575,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 									"line": 25,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L25"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L25"
 								}
 							],
 							"parameters": [
@@ -90617,7 +90617,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts",
 							"line": 26,
 							"character": 16,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts#L26"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts#L26"
 						}
 					],
 					"signatures": [
@@ -90659,7 +90659,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts",
 									"line": 26,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts#L26"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts#L26"
 								}
 							],
 							"parameters": [
@@ -90763,7 +90763,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts",
 							"line": 67,
 							"character": 16,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts#L67"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts#L67"
 						}
 					],
 					"signatures": [
@@ -90797,7 +90797,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts",
 									"line": 67,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts#L67"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/decorators.ts#L67"
 								}
 							],
 							"parameters": [
@@ -90912,7 +90912,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 							"line": 61,
 							"character": 16,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L61"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L61"
 						}
 					],
 					"signatures": [
@@ -90935,7 +90935,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 									"line": 61,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L61"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L61"
 								}
 							],
 							"parameters": [
@@ -90980,7 +90980,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 							"line": 54,
 							"character": 16,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L54"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L54"
 						}
 					],
 					"signatures": [
@@ -91003,7 +91003,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/functions.ts",
 									"line": 54,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L54"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/functions.ts#L54"
 								}
 							],
 							"parameters": [
@@ -91037,7 +91037,7 @@
 							"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts",
 							"line": 29,
 							"character": 16,
-							"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L29"
+							"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L29"
 						}
 					],
 					"signatures": [
@@ -91091,7 +91091,7 @@
 									"fileName": "packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts",
 									"line": 29,
 									"character": 16,
-									"url": "https://github.com/wolfstar-project/plugins/blob/f0ad663cca5752f0ecb54c9e71f1bf3c90425468/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L29"
+									"url": "https://github.com/wolfstar-project/plugins/blob/1f89b5989f47042e3af802b9dd9bf1970d4fb57d/packages/plugin-subcommands-advanced/src/lib/utils/wiring.ts#L29"
 								}
 							],
 							"parameters": [
